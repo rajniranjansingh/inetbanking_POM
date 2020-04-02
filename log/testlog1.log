@@ -429,3 +429,90 @@
 2019-07-28 16:17:58,854 [main] INFO InetBanking - Password is entered
 2019-07-28 16:18:00,516 [main] INFO InetBanking - Submit Button is Clicked
 2019-07-28 16:18:00,602 [main] INFO InetBanking - New Customer Added Successfully
+2020-04-02 12:37:44,219 [main] INFO InetBanking - URL is Opened
+2020-04-02 12:37:44,454 [main] INFO InetBanking - Username Entered
+2020-04-02 12:37:44,540 [main] INFO InetBanking - Password Entered
+2020-04-02 12:37:47,074 [main] INFO InetBanking - Submit Button is Clicked
+2020-04-02 12:38:09,440 [main] INFO InetBanking - URL is Opened
+2020-04-02 12:38:09,638 [main] INFO InetBanking - Username Entered
+2020-04-02 12:38:09,729 [main] INFO InetBanking - Password Entered
+2020-04-02 12:38:10,881 [main] INFO InetBanking - Submit Button is Clicked
+2020-04-02 12:43:06,927 [main] INFO InetBanking - URL is Opened
+2020-04-02 12:43:07,137 [main] INFO InetBanking - Username Entered
+2020-04-02 12:43:07,229 [main] INFO InetBanking - Password Entered
+2020-04-02 12:43:09,716 [main] INFO InetBanking - Submit Button is Clicked
+2020-04-02 12:43:09,725 [main] INFO InetBanking - Login Test Passed
+2020-04-02 12:43:14,121 [main] INFO InetBanking - URL is Opened
+2020-04-02 12:43:14,313 [main] INFO InetBanking - Username Entered
+2020-04-02 12:43:14,401 [main] INFO InetBanking - Password Entered
+2020-04-02 12:43:16,268 [main] INFO InetBanking - Submit Button is Clicked
+2020-04-02 12:43:17,631 [main] INFO InetBanking - Create New Customer Button Clicked
+2020-04-02 12:43:17,721 [main] INFO InetBanking - Customer Name is entered
+2020-04-02 12:43:17,823 [main] INFO InetBanking - Gender Male is selected
+2020-04-02 12:43:18,054 [main] INFO InetBanking - Date of Birth is enetered
+2020-04-02 12:43:18,107 [main] INFO InetBanking - Address is entered
+2020-04-02 12:43:18,210 [main] INFO InetBanking - City is entered
+2020-04-02 12:43:18,292 [main] INFO InetBanking - State is entered
+2020-04-02 12:43:18,463 [main] INFO InetBanking - PIN is entered
+2020-04-02 12:43:18,519 [main] INFO InetBanking - Mobile Number is entered
+2020-04-02 12:43:18,725 [main] INFO InetBanking - Email ID is entered
+2020-04-02 12:43:18,772 [main] INFO InetBanking - Password is entered
+2020-04-02 12:43:20,632 [main] INFO InetBanking - Submit Button is Clicked
+2020-04-02 12:43:20,665 [main] INFO InetBanking - New Customer Added Successfully
+2020-04-02 14:26:18,724 [main] INFO InetBanking - URL is Opened
+2020-04-02 14:26:18,951 [main] INFO InetBanking - Username Entered
+2020-04-02 14:26:19,051 [main] INFO InetBanking - Password Entered
+2020-04-02 14:26:20,704 [main] INFO InetBanking - Submit Button is Clicked
+2020-04-02 14:26:20,714 [main] INFO InetBanking - Login Test Passed
+2020-04-02 14:26:26,926 [main] INFO InetBanking - URL is Opened
+2020-04-02 14:26:27,155 [main] INFO InetBanking - Username Entered
+2020-04-02 14:26:27,267 [main] INFO InetBanking - Password Entered
+2020-04-02 14:26:32,478 [main] INFO InetBanking - Submit Button is Clicked
+2020-04-02 14:26:34,065 [main] INFO InetBanking - Create New Customer Button Clicked
+2020-04-02 14:26:34,140 [main] INFO InetBanking - Customer Name is entered
+2020-04-02 14:26:34,227 [main] INFO InetBanking - Gender Male is selected
+2020-04-02 14:26:34,477 [main] INFO InetBanking - Date of Birth is enetered
+2020-04-02 14:26:34,553 [main] INFO InetBanking - Address is entered
+2020-04-02 14:26:34,694 [main] INFO InetBanking - City is entered
+2020-04-02 14:26:34,787 [main] INFO InetBanking - State is entered
+2020-04-02 14:26:34,950 [main] INFO InetBanking - PIN is entered
+2020-04-02 14:26:35,027 [main] INFO InetBanking - Mobile Number is entered
+2020-04-02 14:26:35,314 [main] INFO InetBanking - Email ID is entered
+2020-04-02 14:26:35,383 [main] INFO InetBanking - Password is entered
+2020-04-02 14:26:36,922 [main] INFO InetBanking - Submit Button is Clicked
+2020-04-02 14:26:36,950 [main] INFO InetBanking - New Customer Added Successfully
+2020-04-02 14:28:11,418 [main] INFO InetBanking - URL is Opened
+2020-04-02 14:28:11,644 [main] INFO InetBanking - Username Entered
+2020-04-02 14:28:11,732 [main] INFO InetBanking - Password Entered
+2020-04-02 14:28:13,547 [main] INFO InetBanking - Submit Button is Clicked
+2020-04-02 14:28:18,436 [main] INFO InetBanking - URL is Opened
+2020-04-02 14:28:18,683 [main] INFO InetBanking - Username Entered
+2020-04-02 14:28:18,795 [main] INFO InetBanking - Password Entered
+2020-04-02 14:28:20,570 [main] INFO InetBanking - Submit Button is Clicked
+2020-04-02 14:34:34,073 [main] INFO InetBanking - URL is Opened
+2020-04-02 14:34:34,325 [main] INFO InetBanking - Username Entered
+2020-04-02 14:34:34,424 [main] INFO InetBanking - Password Entered
+2020-04-02 14:34:35,808 [main] INFO InetBanking - Submit Button is Clicked
+2020-04-02 14:34:35,819 [main] INFO InetBanking - Login Test Passed
+2020-04-02 14:34:45,704 [main] INFO InetBanking - URL is Opened
+2020-04-02 14:34:45,854 [main] INFO InetBanking - Username Entered
+2020-04-02 14:34:45,963 [main] INFO InetBanking - Password Entered
+2020-04-02 14:34:47,873 [main] INFO InetBanking - Submit Button is Clicked
+2020-04-02 14:34:49,231 [main] INFO InetBanking - Create New Customer Button Clicked
+2020-04-02 14:34:49,319 [main] INFO InetBanking - Customer Name is entered
+2020-04-02 14:34:49,430 [main] INFO InetBanking - Gender Male is selected
+2020-04-02 14:34:49,761 [main] INFO InetBanking - Date of Birth is enetered
+2020-04-02 14:34:49,811 [main] INFO InetBanking - Address is entered
+2020-04-02 14:34:49,885 [main] INFO InetBanking - City is entered
+2020-04-02 14:34:49,986 [main] INFO InetBanking - State is entered
+2020-04-02 14:34:50,178 [main] INFO InetBanking - PIN is entered
+2020-04-02 14:34:50,244 [main] INFO InetBanking - Mobile Number is entered
+2020-04-02 14:34:50,589 [main] INFO InetBanking - Email ID is entered
+2020-04-02 14:34:50,717 [main] INFO InetBanking - Password is entered
+2020-04-02 14:34:52,717 [main] INFO InetBanking - Submit Button is Clicked
+2020-04-02 14:34:52,751 [main] INFO InetBanking - New Customer Added Successfully
+2020-04-02 14:36:52,870 [main] INFO InetBanking - URL is Opened
+2020-04-02 14:36:53,100 [main] INFO InetBanking - Username Entered
+2020-04-02 14:36:53,208 [main] INFO InetBanking - Password Entered
+2020-04-02 14:36:55,104 [main] INFO InetBanking - Submit Button is Clicked
+2020-04-02 14:36:55,116 [main] INFO InetBanking - Login Test Passed

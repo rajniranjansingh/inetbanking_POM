@@ -429,3 +429,90 @@
 2019-07-28 16:17:58,854 - InetBanking -INFO - Password is entered
 2019-07-28 16:18:00,516 - InetBanking -INFO - Submit Button is Clicked
 2019-07-28 16:18:00,602 - InetBanking -INFO - New Customer Added Successfully
+2020-04-02 12:37:44,219 - InetBanking -INFO - URL is Opened
+2020-04-02 12:37:44,454 - InetBanking -INFO - Username Entered
+2020-04-02 12:37:44,540 - InetBanking -INFO - Password Entered
+2020-04-02 12:37:47,074 - InetBanking -INFO - Submit Button is Clicked
+2020-04-02 12:38:09,440 - InetBanking -INFO - URL is Opened
+2020-04-02 12:38:09,638 - InetBanking -INFO - Username Entered
+2020-04-02 12:38:09,729 - InetBanking -INFO - Password Entered
+2020-04-02 12:38:10,881 - InetBanking -INFO - Submit Button is Clicked
+2020-04-02 12:43:06,927 - InetBanking -INFO - URL is Opened
+2020-04-02 12:43:07,137 - InetBanking -INFO - Username Entered
+2020-04-02 12:43:07,229 - InetBanking -INFO - Password Entered
+2020-04-02 12:43:09,716 - InetBanking -INFO - Submit Button is Clicked
+2020-04-02 12:43:09,725 - InetBanking -INFO - Login Test Passed
+2020-04-02 12:43:14,121 - InetBanking -INFO - URL is Opened
+2020-04-02 12:43:14,313 - InetBanking -INFO - Username Entered
+2020-04-02 12:43:14,401 - InetBanking -INFO - Password Entered
+2020-04-02 12:43:16,268 - InetBanking -INFO - Submit Button is Clicked
+2020-04-02 12:43:17,631 - InetBanking -INFO - Create New Customer Button Clicked
+2020-04-02 12:43:17,721 - InetBanking -INFO - Customer Name is entered
+2020-04-02 12:43:17,823 - InetBanking -INFO - Gender Male is selected
+2020-04-02 12:43:18,054 - InetBanking -INFO - Date of Birth is enetered
+2020-04-02 12:43:18,107 - InetBanking -INFO - Address is entered
+2020-04-02 12:43:18,210 - InetBanking -INFO - City is entered
+2020-04-02 12:43:18,292 - InetBanking -INFO - State is entered
+2020-04-02 12:43:18,463 - InetBanking -INFO - PIN is entered
+2020-04-02 12:43:18,519 - InetBanking -INFO - Mobile Number is entered
+2020-04-02 12:43:18,725 - InetBanking -INFO - Email ID is entered
+2020-04-02 12:43:18,772 - InetBanking -INFO - Password is entered
+2020-04-02 12:43:20,632 - InetBanking -INFO - Submit Button is Clicked
+2020-04-02 12:43:20,665 - InetBanking -INFO - New Customer Added Successfully
+2020-04-02 14:26:18,724 - InetBanking -INFO - URL is Opened
+2020-04-02 14:26:18,951 - InetBanking -INFO - Username Entered
+2020-04-02 14:26:19,051 - InetBanking -INFO - Password Entered
+2020-04-02 14:26:20,704 - InetBanking -INFO - Submit Button is Clicked
+2020-04-02 14:26:20,714 - InetBanking -INFO - Login Test Passed
+2020-04-02 14:26:26,926 - InetBanking -INFO - URL is Opened
+2020-04-02 14:26:27,155 - InetBanking -INFO - Username Entered
+2020-04-02 14:26:27,267 - InetBanking -INFO - Password Entered
+2020-04-02 14:26:32,478 - InetBanking -INFO - Submit Button is Clicked
+2020-04-02 14:26:34,065 - InetBanking -INFO - Create New Customer Button Clicked
+2020-04-02 14:26:34,140 - InetBanking -INFO - Customer Name is entered
+2020-04-02 14:26:34,227 - InetBanking -INFO - Gender Male is selected
+2020-04-02 14:26:34,477 - InetBanking -INFO - Date of Birth is enetered
+2020-04-02 14:26:34,553 - InetBanking -INFO - Address is entered
+2020-04-02 14:26:34,694 - InetBanking -INFO - City is entered
+2020-04-02 14:26:34,787 - InetBanking -INFO - State is entered
+2020-04-02 14:26:34,950 - InetBanking -INFO - PIN is entered
+2020-04-02 14:26:35,027 - InetBanking -INFO - Mobile Number is entered
+2020-04-02 14:26:35,314 - InetBanking -INFO - Email ID is entered
+2020-04-02 14:26:35,383 - InetBanking -INFO - Password is entered
+2020-04-02 14:26:36,922 - InetBanking -INFO - Submit Button is Clicked
+2020-04-02 14:26:36,950 - InetBanking -INFO - New Customer Added Successfully
+2020-04-02 14:28:11,418 - InetBanking -INFO - URL is Opened
+2020-04-02 14:28:11,644 - InetBanking -INFO - Username Entered
+2020-04-02 14:28:11,732 - InetBanking -INFO - Password Entered
+2020-04-02 14:28:13,547 - InetBanking -INFO - Submit Button is Clicked
+2020-04-02 14:28:18,436 - InetBanking -INFO - URL is Opened
+2020-04-02 14:28:18,683 - InetBanking -INFO - Username Entered
+2020-04-02 14:28:18,795 - InetBanking -INFO - Password Entered
+2020-04-02 14:28:20,570 - InetBanking -INFO - Submit Button is Clicked
+2020-04-02 14:34:34,073 - InetBanking -INFO - URL is Opened
+2020-04-02 14:34:34,325 - InetBanking -INFO - Username Entered
+2020-04-02 14:34:34,424 - InetBanking -INFO - Password Entered
+2020-04-02 14:34:35,808 - InetBanking -INFO - Submit Button is Clicked
+2020-04-02 14:34:35,819 - InetBanking -INFO - Login Test Passed
+2020-04-02 14:34:45,704 - InetBanking -INFO - URL is Opened
+2020-04-02 14:34:45,854 - InetBanking -INFO - Username Entered
+2020-04-02 14:34:45,963 - InetBanking -INFO - Password Entered
+2020-04-02 14:34:47,873 - InetBanking -INFO - Submit Button is Clicked
+2020-04-02 14:34:49,231 - InetBanking -INFO - Create New Customer Button Clicked
+2020-04-02 14:34:49,319 - InetBanking -INFO - Customer Name is entered
+2020-04-02 14:34:49,430 - InetBanking -INFO - Gender Male is selected
+2020-04-02 14:34:49,761 - InetBanking -INFO - Date of Birth is enetered
+2020-04-02 14:34:49,811 - InetBanking -INFO - Address is entered
+2020-04-02 14:34:49,885 - InetBanking -INFO - City is entered
+2020-04-02 14:34:49,986 - InetBanking -INFO - State is entered
+2020-04-02 14:34:50,178 - InetBanking -INFO - PIN is entered
+2020-04-02 14:34:50,244 - InetBanking -INFO - Mobile Number is entered
+2020-04-02 14:34:50,589 - InetBanking -INFO - Email ID is entered
+2020-04-02 14:34:50,717 - InetBanking -INFO - Password is entered
+2020-04-02 14:34:52,717 - InetBanking -INFO - Submit Button is Clicked
+2020-04-02 14:34:52,751 - InetBanking -INFO - New Customer Added Successfully
+2020-04-02 14:36:52,870 - InetBanking -INFO - URL is Opened
+2020-04-02 14:36:53,100 - InetBanking -INFO - Username Entered
+2020-04-02 14:36:53,208 - InetBanking -INFO - Password Entered
+2020-04-02 14:36:55,104 - InetBanking -INFO - Submit Button is Clicked
+2020-04-02 14:36:55,116 - InetBanking -INFO - Login Test Passed

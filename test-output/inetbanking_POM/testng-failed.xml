@@ -7,13 +7,6 @@
   <test thread-count="5" name="Banking Test (failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.inetbanking.testCases.TC_LoginTest_DDT">
-        <methods>
-          <include name="tearDown"/>
-          <include name="setUp"/>
-          <include name="loginDDT" invocation-numbers="1 2 4"/>
-        </methods>
-      </class> <!-- com.inetbanking.testCases.TC_LoginTest_DDT -->
       <class name="com.inetbanking.testCases.TC_AddNewCustomerTest">
         <methods>
           <include name="tearDown"/>
@@ -21,6 +14,13 @@
           <include name="addNewCustomerTest"/>
         </methods>
       </class> <!-- com.inetbanking.testCases.TC_AddNewCustomerTest -->
+      <class name="com.inetbanking.testCases.TC_LoginTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="loginTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.inetbanking.testCases.TC_LoginTest -->
     </classes>
   </test> <!-- Banking Test (failed) -->
 </suite> <!-- Failed suite [inetbanking_POM] -->
